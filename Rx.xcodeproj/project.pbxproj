@@ -6418,6 +6418,7 @@
 				PRODUCT_NAME = RxSwift;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = "${PROJECT_DIR}/Products";
 			};
 			name = "Release-Tests";
 		};
@@ -6437,6 +6438,7 @@
 				PRODUCT_NAME = RxSwift;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = "${PROJECT_DIR}/Products";
 			};
 			name = Debug;
 		};
@@ -6456,6 +6458,7 @@
 				PRODUCT_NAME = RxSwift;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = "${PROJECT_DIR}/Products";
 			};
 			name = Release;
 		};
